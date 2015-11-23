@@ -25,7 +25,7 @@ class Schematic_AmNavPlugin extends BasePlugin
      */
     public function getDeveloper()
     {
-        return 'Itmundi Development Team';
+        return 'Nerds and Company';
     }
 
     /**
@@ -33,7 +33,7 @@ class Schematic_AmNavPlugin extends BasePlugin
      */
     public function getDeveloperUrl()
     {
-        return 'http://www.itmundi.nl';
+        return 'http://www.nerds.company';
     }
 
     /**
