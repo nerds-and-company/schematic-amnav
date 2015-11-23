@@ -1,0 +1,24 @@
+{
+    "name": "itmundi/schematic_amnav",
+    "description": "Sync Craft AmNav settings",
+    "authors": [
+        {
+            "name": "Gijs Stegehuis",
+            "email": "g.stegehuis@nerds.company",
+            "homepage": "http://www.nerds.company",
+            "role": "Developer"
+        },
+        {
+            "name": "Nick Obermeijer",
+            "email": "n.obermeijer@nerds.company",
+            "homepage": "http://www.nerds.company",
+            "role": "Developer"
+        }
+    ],
+    "license": "MIT",
+    "type": "craft-plugin",
+    "require": {
+        "composer/installers": "~1.0",
+        "itmundi/schematic": ">=1.4.1"
+    }
+}
