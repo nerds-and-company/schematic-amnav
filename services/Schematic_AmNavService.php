@@ -2,6 +2,8 @@
 
 namespace Craft;
 
+use NerdsAndCompany\Schematic\Services\Base as Schematic_AbstractService;
+
 /**
  * Class Schematic_AmNavService.
  */
