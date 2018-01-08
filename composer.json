@@ -19,6 +19,6 @@
     "type": "craft-plugin",
     "require": {
         "composer/installers": "~1.0",
-        "itmundi/schematic": ">=1.4.1"
+        "nerds-and-company/schematic": ">=1.4.1"
     }
 }
